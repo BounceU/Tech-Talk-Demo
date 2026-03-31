@@ -1,0 +1,8 @@
+{
+  "name": "javascript-demo",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "javascriptdemo": "./bin/index.js"
+  }
+}
