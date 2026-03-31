@@ -9,4 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-/target
+Rust/rust-demo/target
+
+.DS_Store
